@@ -11,6 +11,6 @@
 	GOODBYE world!  !!!!!
 </h1>
 
-<P>오늘부터 니 이름은</P>
+<P>오늘부터 니 이름은 ss</P>
 </body>
 </html>
