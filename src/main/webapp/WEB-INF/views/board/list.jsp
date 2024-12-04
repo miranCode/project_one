@@ -25,7 +25,7 @@
 	</script>
     <div class="row">
         <div class="col-lg-12">
-            <h1 class="page-header">Board List</h1>
+            <h1 class="page-header">Board List 1111</h1>
         </div>
         <!-- /.col-lg-12 -->
     </div>
